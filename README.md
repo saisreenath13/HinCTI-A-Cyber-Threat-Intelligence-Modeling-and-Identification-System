@@ -212,3 +212,16 @@ Computer Science and Engineering (AI & ML)
 👥 Contributors
 
 T. Sai Sreenath
+📌 Future Enhancements
+
+Real-time streaming threat analysis
+
+Integration with SIEM platforms
+
+Deep learning-based threat behavior modeling
+
+Cloud deployment
+
+📜 License
+
+This project is developed for academic and research purposes.
